@@ -1,0 +1,21 @@
+//
+//  LibraryViewController.swift
+//  Ngoma
+//
+//  Created by Wilson Mungai on 2022-12-30.
+//
+
+import UIKit
+
+class LibraryViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        view.backgroundColor = .systemBackground
+    }
+    
+
+  
+
+}
